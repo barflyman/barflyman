@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there👋
+
+I'm Ünsal. Lucky you ✨ 
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,kubernetes,py)](https://skillicons.dev)
 
 <!--
 **barflyman/barflyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
