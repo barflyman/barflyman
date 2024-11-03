@@ -2,7 +2,14 @@
 
 I'm Ünsal. Feel free to contact me ✨ 
 
-<!--
+
+
+<a href="https://www.datacamp.com/certificate/PDA0019770633641#">
+  <img width="94" alt="Python Data Associate" src="https://github.com/user-attachments/assets/f8de27e1-4aea-4b4d-8116-005e295277f3">
+</a>
+
+<!--![Uploading Python Data Associate - Badge with outline.png…]()
+
 **barflyman/barflyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
