@@ -1,6 +1,6 @@
 ## Hi there👋
 
-I'm Ünsal. I have skills in SQL, Python (incl. Pandas), OpenAI API, Hugging Face
+I'm Ünsal. I have skills in SQL, Python (including Pandas), and experience with OpenAI API and Hugging Face for implementing machine learning models.
 
 <a href="https://www.datacamp.com/certificate/PDA0019770633641#">
 <img width="98" alt="Python Data Associate - Badge with outline" src="https://github.com/user-attachments/assets/eafe1779-8671-4a4a-92f4-3df7f64cce91"></a>
