@@ -1,7 +1,6 @@
 ## Hi there👋
 
-I'm Ünsal, based in Bremen, Germany. I have skills in SQL, Python (including Pandas), OpenAI API. Check my little repo on [Hugging Face](https://huggingface.co/barflyman) for implementing machine learning models.
-
+I'm Ünsal, based in Bremen, Germany. I have skills in SQL, Python (including Pandas), OpenAI API. Check my little repo on [Hugging Face](https://huggingface.co/barflyman)
 
 
 <a href="https://www.datacamp.com/certificate/PDA0019770633641#">
