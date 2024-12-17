@@ -1,6 +1,6 @@
 ## Hi there👋
 
-I'm Ünsal. I have skills in SQL, Python (including Pandas), and experience with OpenAI API and [Hugging Face](https://huggingface.co/barflyman) for implementing machine learning models.
+I'm Ünsal, based in Bremen, Germany. I have skills in SQL, Python (including Pandas), OpenAI API. Check my little repo on [Hugging Face](https://huggingface.co/barflyman) for implementing machine learning models.
 
 
 
