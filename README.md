@@ -1,7 +1,4 @@
-## Hi there👋
-
-I'm Ünsal, based in Bremen, Germany. I have skills in SQL, Python (including Pandas), OpenAI API. Check my repo on [Hugging Face](https://huggingface.co/barflyman)
-
+Hello! I am open to work and have expertise in SQL, Python (including Pandas), OpenAI API, and building AI applications using Hugging Face pipelines and Gradio. I love creating impactful solutions with cutting-edge tools. Let's collaborate!
 
 <a href="https://www.datacamp.com/certificate/PDA0019770633641#">
 <img width="98" alt="Python Data Associate - Badge with outline" src="https://github.com/user-attachments/assets/eafe1779-8671-4a4a-92f4-3df7f64cce91"></a>
@@ -15,7 +12,7 @@ I'm Ünsal, based in Bremen, Germany. I have skills in SQL, Python (including Pa
 <a href="https://www.datacamp.com/skill-verification/AIF0023982734243#">
 <img width="98" alt="AI Fundamentals certificate - badge" src="https://github.com/user-attachments/assets/d0bb4dd3-24d0-4e4a-8f00-d9553433918c"></a>
 
-<!--![Uploading Python Data Associate - Badge with outline.png…]()
+<!--
 
 **barflyman/barflyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
