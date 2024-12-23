@@ -12,6 +12,9 @@ Hello! I am open to work and have expertise in SQL, Python (including Pandas), O
 <a href="https://www.datacamp.com/skill-verification/AIF0023982734243#">
 <img width="98" alt="AI Fundamentals certificate - badge" src="https://github.com/user-attachments/assets/d0bb4dd3-24d0-4e4a-8f00-d9553433918c"></a>
 
+## Contact
+Please contact me via GitHub Issues or feel free to reach out by email: thebarflyman[at]yahoo[dot]de
+
 <!--
 
 **barflyman/barflyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
