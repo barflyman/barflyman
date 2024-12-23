@@ -1,4 +1,4 @@
-Hello! I am open to work and have expertise in SQL, Python (including Pandas), OpenAI API, and building AI applications using Hugging Face pipelines and Gradio. I love creating impactful solutions with cutting-edge tools. Let's collaborate!
+Hello! I am open to work and have expertise in SQL, Python (including Pandas), OpenAI API, and building AI applications using Hugging Face pipelines and Gradio. I love creating impactful solutions with cutting-edge tools.
 
 <a href="https://www.datacamp.com/certificate/PDA0019770633641#">
 <img width="98" alt="Python Data Associate - Badge with outline" src="https://github.com/user-attachments/assets/eafe1779-8671-4a4a-92f4-3df7f64cce91"></a>
