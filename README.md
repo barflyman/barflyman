@@ -11,7 +11,9 @@ I'm Ünsal, based in Bremen, Germany. I have skills in SQL, Python (including Pa
 &nbsp&nbsp
 <a href="https://www.datacamp.com/certificate/DEA0017243849255#">
 <img width="98" alt="DE Associate - badge with outline" src="https://github.com/user-attachments/assets/e3d19d47-34c0-47ac-8a77-57a8615122c1"></a>
-
+&nbsp&nbsp
+<a href="https://www.datacamp.com/skill-verification/AIF0023982734243#">
+<img width="98" alt="AI Fundamentals certificate - badge" src="https://github.com/user-attachments/assets/d0bb4dd3-24d0-4e4a-8f00-d9553433918c"></a>
 
 <!--![Uploading Python Data Associate - Badge with outline.png…]()
 
