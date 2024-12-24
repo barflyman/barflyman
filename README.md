@@ -1,4 +1,5 @@
 Hello! I am open to work and have expertise in SQL, Python (including Pandas), OpenAI API, and building AI applications using Hugging Face pipelines and Gradio.
+
 <a href="https://www.datacamp.com/certificate/PDA0019770633641#">
 <img width="94" alt="Python Data Associate - Badge without outline" src="https://github.com/user-attachments/assets/0f27e0b8-c6e8-4c9f-979c-8b61947f353e"></a>
 &nbsp&nbsp
