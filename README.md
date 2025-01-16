@@ -1,3 +1,5 @@
+Ich besitze Kenntnisse in Python, SQL, ABAP, C++ sowie in der Entwicklung von KI-Anwendungen im Hugging Face-Ökosystem.
+
 <!--
 
 **barflyman/barflyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
