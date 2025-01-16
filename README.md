@@ -1,5 +1,3 @@
-Hello! I am open to work and have expertise in SQL, Python (including Pandas), OpenAI API, and building AI applications using Hugging Face pipelines and Gradio.
-
 <!--
 
 **barflyman/barflyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
